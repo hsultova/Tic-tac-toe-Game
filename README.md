@@ -3,6 +3,6 @@ Game for two players, X and O, who take turns marking the spaces in a 3×3 grid.
 
 To do: 
 
-Remove additional lines when someone wins
+Remove additional color lines when someone wins
 
 Add message about ending game when no one wins
