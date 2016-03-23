@@ -1,0 +1,19 @@
+#Field2, #Field8  {
+	border-style: none solid none solid;			
+}
+
+#Field4, #Field6{
+			
+	border-style: solid none solid none;		
+}
+#Field5{
+	border-style: solid;
+}
+table {
+	width: 400px;
+	height: 400px;
+	table-layout:fixed;
+	text-align: center;
+	font-size: 36pt;
+	font-weight: bold;	
+}
